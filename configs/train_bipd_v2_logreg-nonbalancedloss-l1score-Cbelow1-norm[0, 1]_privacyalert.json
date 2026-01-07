@@ -1,0 +1,17 @@
+{
+  "name": "train_bipd_v2_logreg-nonbalancedloss-l1score-Cbelow1-norm[0, 1]_privacyalert",
+  "date_created": "01.05.2025",
+  "n_trials": 1,
+  "metric_to_optimize": "f1-macro",
+  "normalize": "min_max_to_0_1",
+  "set_to_optimize_on": "val",
+  "parameters_to_optimize": {},
+  "other_simple_classifier_parameters": {
+    "classifier": "logreg",
+    "fit_intercept": true,
+    "penalty": "l1",
+    "solver": "liblinear",
+    "C": 0.794406429519246,
+    "max_iter": 138
+  }
+}

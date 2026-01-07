@@ -1,0 +1,132 @@
+Term,Description,text
+Password,Information about password used in the process of authenticating the individual as an user accessing a system.,Password: information about password used in the process of authenticating the individual as an user accessing a system
+PIN Code,"Information about Personal identification number (PIN), which is usually used in the process of authenticating the individual as an user accessing a system.",PIN Code: usually used in the process of authenticating the individual as an user accessing a system
+Secret Text,"Information about secret text used in the process of authenticating the individual as an user accessing a system, e.g., when recovering a lost password.","Secret Text: information about secret text used in the process of authenticating the individual as an user accessing a system, e.g., when recovering a lost password"
+Philosophical Belief,Information about philosophical beliefs.,Philosophical Belief: information about philosophical beliefs
+Religious Belief,Information about religion and religious beliefs.,Religious Belief: information about religion and religious beliefs
+Thought,Information about thoughts,Thought: information about thoughts
+Favorite,Information about favorites,Favorite: information about favorites
+Intention,Information about intentions,Intention: information about intentions
+Interest,Information about interests,Interest: information about interests
+Opinion,Information about opinions,Opinion: information about opinions
+Privacy Preference,Information about privacy preferences,Privacy Preference: information about privacy preferences
+Attitude,Information about attitude.,Attitude: information about attitude
+Authentication History,Information about prior authentication and its outcomes such as login attempts or location.,Authentication History: information about prior authentication and its outcomes such as login attempts or location
+Browsing Behavior,Information about browsing Behavior.,Browsing Behavior: information about browsing behavior
+Call Log,Information about the calls that an individual has made.,Call Log: information about the calls that an individual has made
+Demeanor,Information about demeanor.,Demeanor: information about demeanor
+Link Clicked,Information about the links that an individual has clicked.,Link Clicked: information about the links that an individual has clicked
+Personality,"Information about personality (e.g., categorization in terms of the Big Five personality traits)","Personality: information about personality (e.g., categorization in terms of the big five personality traits)"
+Reliability,Information about reliability (e.g. of a person),Reliability: information about reliability (e.g. of a person)
+Service Consumption Behavior,"Information about the consumption of a service, e.g. time and duration of consumption.","Service Consumption Behavior: information about the consumption of a service, e.g. time and duration of consumption"
+Citizenship,Information about citizenship,Citizenship: information about citizenship
+Geographic,Information about location or based on geography (e.g. home address),Geographic: information about location or based on geography (e.g. home address)
+Income Bracket,Information about income bracket.,Income Bracket: information about income bracket
+Physical Trait,Information about defining traits or features regarding the body.,Physical Trait: information about defining traits or features regarding the body
+Ethnic Origin,Information about ethnic origin,Ethnic Origin: information about ethnic origin
+Race,Information about race or racial history.,Race: information about race or racial history
+Biometric,Information about biometrics and biometric characteristics.,Biometric: information about biometrics and biometric characteristics
+Name,Information about names associated or used as given name or nickname.,Name: information about names associated or used as given name or nickname
+Official ID,Information about an official identifier or identification document,Official ID: information about an official identifier or identification document
+Picture,Information about visual representation or image e.g. profile photo.,Picture: information about visual representation or image e.g. profile photo
+UID,Information about unique identifiers.,UID: information about unique identifiers
+Username,Information about usernames.,Username: information about usernames
+Accent,Information about linguistic and speech accents.,Accent: information about linguistic and speech accents
+Dialect,Information about linguistic dialects.,Dialect: information about linguistic dialects
+Blood Type,Information about blood type.,Blood Type: information about blood type
+Disability,Information about disabilities.,Disability: information about disabilities
+DNA Code,Information about DNA.,DNA Code: information about dna
+Drug Test Result,Information about drug test results.,Drug Test Result: information about drug test results
+Health,Information about health.,Health: information about health
+Health History,Information about health history.,Health History: information about health history
+Health Record,Information about health record.,Health Record: information about health record
+Prescription,Information about medical and pharmaceutical prescriptions,Prescription: information about medical and pharmaceutical prescriptions
+Nationality,Information about nationality,Nationality: information about nationality
+Personal Documents,Information about and including personal documents e.g. diaries or journals,Personal Documents: information about and including personal documents e.g. diaries or journals
+Age,Information about age,Age: information about age
+Gender,Information about gender,Gender: information about gender
+Hair Color,Information about hair color,Hair Color: information about hair color
+Height,Information about physical height,Height: information about physical height
+Piercing,Information about piercings,Piercing: information about piercings
+Skin Tone,Information about skin tone,Skin Tone: information about skin tone
+Tattoo,Information about tattoos,Tattoo: information about tattoos
+Weight,Information about physical weight,Weight: information about physical weight
+Fetish,Information about an individual's sexual fetishes,Fetish: information about an individual's sexual fetishes
+Proclivity,Information about proclivities in a sexual context,Proclivity: information about proclivities in a sexual context
+Sexual History,Information about sexual history,Sexual History: information about sexual history
+Sexual Preference,Information about sexual preferences,Sexual Preference: information about sexual preferences
+Vehicle License,Information about vehicle license,Vehicle License: information about vehicle license
+Vehicle Usage,"Information about usage of vehicles, e.g. driving statistics","Vehicle Usage: information about usage of vehicles, e.g. driving statistics"
+Account Identifier,Information about financial account identifier.,Account Identifier: information about financial account identifier
+Bank Account,Information about bank accounts.,Bank Account: information about bank accounts
+Payment Card,"Information about payment card such as Credit Card, Debit Card.","Payment Card: information about payment card such as credit card, debit card"
+Financial Status,Information about financial status or standing,Financial Status: information about financial status or standing
+Insurance,Information about Insurance,Insurance: information about insurance
+Car Owned,Information about cars ownership and ownership history.,Car Owned: information about cars ownership and ownership history
+House Owned,Information about house(s) owned and ownership history.,House Owned: information about house(s) owned and ownership history
+Personal Possession,Information about personal possessions.,Personal Possession: information about personal possessions
+Credit,Information about reputation with regards to money,Credit: information about reputation with regards to money
+Income,Information about financial income e.g. for individual or household or family,Income: information about financial income e.g. for individual or household or family
+Loan Record,"Information about loans, whether applied, provided or rejected, and its history","Loan Record: information about loans, whether applied, provided or rejected, and its history"
+Purchase,Information about purchases such as items bought e.g. grocery or clothing,Purchase: information about purchases such as items bought e.g. grocery or clothing
+Purchases and Spending Habit,Information about analysis of purchases made and money spent expressed as a habit e.g. monthly shopping trends,Purchases and Spending Habit: information about analysis of purchases made and money spent expressed as a habit e.g. monthly shopping trends
+Sale,Information about sales e.g. selling of goods or services,Sale: information about sales e.g. selling of goods or services
+Tax,Information about financial tax e.g. tax records or tax due,Tax: information about financial tax e.g. tax records or tax due
+Transaction,Information about financial transactions e.g. bank transfers,Transaction: information about financial transactions e.g. bank transfers
+Life History,"Information about personal history regarding events or activities - including  their occurrences that might be directly related or have had an influence (e.g. World War, 9/11)","Life History: information about personal history regarding events or activities - including  their occurrences that might be directly related or have had an influence (e.g. world war, 9/11)"
+Email Content,Information about the contents of Emails sent or received,Email Content: information about the contents of emails sent or received
+Social Media,Information about social media,Social Media: information about social media
+Social Media Communication,"Information about social media communication, including the communication itself and metadata.","Social Media Communication: information about social media communication, including the communication itself and metadata"
+Voice Communication Recording,"Information about vocal recorded communication (e.g. telephony, VoIP)","Voice Communication Recording: information about vocal recorded communication (e.g. telephony, voip)"
+Voice Mail,Information about voice mail messages.,Voice Mail: information about voice mail messages
+Criminal Charge,Information about criminal charges.,Criminal Charge: information about criminal charges
+Criminal Conviction,Information about criminal convictions.,Criminal Conviction: information about criminal convictions
+Criminal Offense,Information about criminal offenses,Criminal Offense: information about criminal offenses
+Criminal Pardon,Information about criminal pardons.,Criminal Pardon: information about criminal pardons
+Family Structure,Information about family and familial structure.,Family Structure: information about family and familial structure
+Relationship,Information about relationships and relationship history.,Relationship: information about relationships and relationship history
+Disciplinary Action,Information about disciplinary actions and its history,Disciplinary Action: information about disciplinary actions and its history
+Education,Information about education,Education: information about education
+Employment History,Information about employment history,Employment History: information about employment history
+Job,Information about professional jobs,Job: information about professional jobs
+Performance at Work,Information about performance at work or within work environments,Performance at Work: information about performance at work or within work environments
+Professional Certification,Information about professional certifications,Professional Certification: information about professional certifications
+Professional Evaluation,Information about professional evaluations,Professional Evaluation: information about professional evaluations
+Professional Interview,Information about professional interviews,Professional Interview: information about professional interviews
+Reference,Information about references in the professional context,Reference: information about references in the professional context
+Salary,Information about salary,Salary: information about salary
+School,"Information about school such as name of school, conduct, or grades obtained.","School: information about school such as name of school, conduct, or grades obtained"
+Work Environment,Information about work environments,Work Environment: information about work environments
+Work History,Information about work history in a professional context,Work History: information about work history in a professional context
+Character,Information about character in the public sphere,Character: information about character in the public sphere
+Communications Metadata,Information about communication metadata in the public sphere,Communications Metadata: information about communication metadata in the public sphere
+General Reputation,Information about reputation in the public sphere,General Reputation: information about reputation in the public sphere
+Interaction,Information about interactions in the public sphere,Interaction: information about interactions in the public sphere
+Marital Status,Information about marital status and history,Marital Status: information about marital status and history
+Political Affiliation,Information about political affiliation and history,Political Affiliation: information about political affiliation and history
+Political Opinion,Information about opinions regarding politics and political topics,Political Opinion: information about opinions regarding politics and political topics
+Religion,"Information about religion, religious inclinations, and religious history.","Religion: information about religion, religious inclinations, and religious history"
+Social Status,Information about social status,Social Status: information about social status
+Acquaintance,Information about acquaintances in a social network.,Acquaintance: information about acquaintances in a social network
+Association,"Information about associations in a social network with other individuals, groups, or entities e.g. friend of a friend","Association: information about associations in a social network with other individuals, groups, or entities e.g. friend of a friend"
+Connection,Information about and including connections in a social network,Connection: information about and including connections in a social network
+Friend,"Information about friends in a social network, including aspects of friendships such as years together or nature of friendship.","Friend: information about friends in a social network, including aspects of friendships such as years together or nature of friendship"
+Group Membership,Information about groups and memberships included or associated with a social network,Group Membership: information about groups and memberships included or associated with a social network
+Email Address,Information about Email address.,Email Address: information about email address
+Telephone Number,Information about telephone number.,Telephone Number: information about telephone number
+Browser Fingerprint,Information about the web browser which is used as a 'fingerprint',Browser Fingerprint: information about the web browser which is used as a 'fingerprint'
+Device Software,Information about software on or related to a device.,Device Software: information about software on or related to a device
+IP Address,Information about the Internet Protocol (IP) address of a device,IP Address: information about the internet protocol (ip) address of a device
+MAC Address,Information about the Media Access Control (MAC) address of a device,MAC Address: information about the media access control (mac) address of a device
+Digital Fingerprint,Information about a 'digital fingerprint' created for identification,Digital Fingerprint: information about a 'digital fingerprint' created for identification
+Identifier,Information about an identifier or name used for identification,Identifier: information about an identifier or name used for identification
+Birth Place,Information about birth place,Birth Place: information about birth place
+Domicile,Information about domicile status e.g. which region or country a person is domiciled in,Domicile: information about domicile status e.g. which region or country a person is domiciled in
+Country,"Information about country e.g. residence, travel.","Country: information about country e.g. residence, travel"
+GPS Coordinate,Information about location expressed using Global Position System coordinates (GPS),GPS Coordinate: information about location expressed using global position system coordinates (gps)
+Physical Address,Information about physical address.,Physical Address: information about physical address
+Residency,Information about residency e.g. which region or country a person is resident in,Residency: information about residency e.g. which region or country a person is resident in
+Travel History,Information about travel history,Travel History: information about travel history
+User agent,Information about software acting on behalf of users e.g. web browser,User agent: information about software acting on behalf of users e.g. web browser
+Group Profile,Group Profile or category profile is information and representation of characteristics associated with a group or category of individuals,Group Profile: group profile or category profile is information and representation of characteristics associated with a group or category of individuals
+Individual Profile, Individual Profile or user profile is information and representation of characteristics associated with a specific individual,Individual Profile: individual profile or user profile is information and representation of characteristics associated with a specific individual

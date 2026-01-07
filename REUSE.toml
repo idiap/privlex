@@ -1,0 +1,28 @@
+#
+# SPDX-FileCopyrightText: Copyright © 2026 Idiap Research Institute <contact@idiap.ch>
+#
+# SPDX-FileContributor: Darya Baranouckaya <darya.baranouskaya@idiap.ch>
+#
+# SPDX-License-Identifier: Apache-2.0
+
+version = 1
+
+[[annotations]]
+path = "configs/*"
+precedence = "override"
+SPDX-FileCopyrightText = "Copyright © 2026 Idiap Research Institute <contact@idiap.ch>"
+SPDX-Contributor = "Darya Baranouckaya <darya.baranouskaya@idiap.ch>"
+SPDX-License-Identifier = "Apache-2.0"
+
+
+[[annotations]]
+path = "data/concept_types/*"
+precedence = "override"
+SPDX-FileCopyrightText = "Copyright © 2024 the Contributors to the Personal Data Categories (PD) Specification, published by the Data Privacy Vocabularies and Controls Community Group under the W3C Community Final Specification Agreement (FSA)."
+SPDX-License-Identifier = "LicenseRef-W3C-Software-and-Document-license-2023"
+
+[[annotations]]
+path = "data/image_datasets/*"
+precedence = "override"
+SPDX-FileCopyrightText = "Copyright datasets authors"
+SPDX-License-Identifier = "CC-BY-4.0"
